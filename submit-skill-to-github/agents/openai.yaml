@@ -1,0 +1,4 @@
+interface:
+  display_name: "提交 Skill 到 GitHub"
+  short_description: "把 Codex skill 按仓库规范提交到 GitHub"
+  default_prompt: "使用 $submit-skill-to-github 将指定 Codex skill 验证、整理到 codex-skills 仓库的独立文件夹并推送到 GitHub。"
