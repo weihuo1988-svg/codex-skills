@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书亲子笔记"
+  short_description: "根据爆款截图和账号定位生成离异带娃亲子赛道笔记与配图"
+  default_prompt: "Use $write-xhs-qinzi-notes 根据我提供的爆款截图生成一篇亲子赛道笔记，并在我确认后归档。"

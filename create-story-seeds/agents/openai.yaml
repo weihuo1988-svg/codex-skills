@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事种子创作"
+  short_description: "用对话生成可扩写的情感故事种子并归档"
+  default_prompt: "Use $create-story-seeds 和我对话生成一个都市狗血爱情故事种子，并保存到专门文件夹。"
