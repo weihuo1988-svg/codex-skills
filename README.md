@@ -17,6 +17,7 @@ Only include folders a skill actually uses. For example, a skill without referen
 ## Skills
 
 - `capture-mobile-dictation`: Capture Codex mobile dictation, split it into structured slices, route notes into project documents, handle calendar items, and extract long-term memory candidates.
+- `submit-skill-to-github`: Validate a Codex skill, place it in its own folder in this repository, commit it, push it to GitHub, and verify the remote commit.
 
 ## Publishing Rule
 
