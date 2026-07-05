@@ -1,0 +1,4 @@
+interface:
+  display_name: "移动口述捕获"
+  short_description: "清理、切片、记录日程并提取长期记忆"
+  default_prompt: "使用 $capture-mobile-dictation 处理这段 Codex 移动端口述，切分信息、写入提醒或日程账本，并提取长期记忆候选。"
